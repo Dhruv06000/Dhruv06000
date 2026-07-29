@@ -49,38 +49,58 @@ Passionate about solving real-world problems through Artificial Intelligence and
 <!-- ========================= Tech Stack ========================= -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=8A2BE2&center=true&vCenter=true&repeat=false&width=250&lines=⚡+Tech+Stack" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=8A2BE2&center=true&vCenter=true&repeat=false&width=250&lines=⚡+Tech+Stack" />
 </h2>
 
 <br>
 
+<h3 align="center">💻 Languages & Backend</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,tailwind,bootstrap,fastapi,mongodb,sqlite,pytorch,sklearn,opencv,git,github,docker,linux,azure,gcp,vscode,postman&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,html,tailwind,sqlite,git&perline=6"/>
+</p>
+
+<br>
+
+<h3 align="center">🛠️ Development Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,linux,vscode,postman,docker&perline=5"/>
+</p>
+
+<br>
+
+<h3 align="center">🤖 AI / Machine Learning</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 </p>
 
 <br>
 <!-- ========================= GitHub Analytics ========================= -->
 
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<br>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhruv06000&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Dhruv06000&theme=midnight-purple&hide_border=true&background=00000000" />
+  <img height="170"
+       src="https://github-readme-streak-stats-eight.vercel.app?user=Dhruv06000&theme=midnight-purple&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv06000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv06000&theme=react-dark&hide_border=true"/>
 </p>
-
-<br>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv06000&theme=react-dark&bg_color=000000&hide_border=true&color=8A2BE2&line=6A0DAD&point=FFD700&area=true&area_color=6A0DAD" />
-</p>
-
-<br>
 <!-- ========================= Contribution Snake ========================= -->
 
 <h2 align="center">🐍 Contribution Graph</h2>
