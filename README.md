@@ -157,6 +157,7 @@ Whether it's AI, Machine Learning, Python, or Open Source—I'm always excited t
 
 <sub>
 Designed & Built with 💜 by <b>Dhruv Kumar</b><br>
+Inspired by <a href="https://github.com/Houria-hs">Houria</a>'s GitHub profile design.<br>
 Always Learning • Always Building • Always Improving 🚀
 </sub>
 
