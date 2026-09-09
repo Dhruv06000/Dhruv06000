@@ -17,7 +17,7 @@ Passionate about solving real-world problems through Artificial Intelligence and
   <img src="https://img.shields.io/github/stars/Dhruv06000?affiliations=OWNER&style=for-the-badge&logo=github&color=8A2BE2&labelColor=0D1117" />
   <img src="https://komarev.com/ghpvc/?username=Dhruv06000&style=for-the-badge&color=6A0DAD" />
 </p>
-<!-- ========================= About Me ========================= -->
+<!-- About Me  -->
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -46,7 +46,7 @@ Passionate about solving real-world problems through Artificial Intelligence and
 </table>
 
 <br>
-<!-- ========================= Tech Stack ========================= -->
+<!-- Tech Stack  -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=8A2BE2&center=true&vCenter=true&repeat=false&width=250&lines=⚡+Tech+Stack" />
@@ -87,7 +87,7 @@ Passionate about solving real-world problems through Artificial Intelligence and
 </p>
 
 <br>
-<!-- ========================= GitHub Analytics ========================= -->
+<!-- GitHub Analytics  -->
 
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -99,9 +99,9 @@ Passionate about solving real-world problems through Artificial Intelligence and
 
 <p align="center">
   <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv06000&theme=react-dark&hide_border=true"/>
+       src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Dhruv06000&theme=react-dark&hide_border=true"/>
 </p>
-<!-- ========================= Contribution Snake ========================= -->
+<!-- Contribution Snake -->
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
@@ -120,9 +120,8 @@ Passionate about solving real-world problems through Artificial Intelligence and
 </p>
 
 <br>
-<!-- ========================= Connect With Me ========================= -->
 
-<!-- ========================= Connect With Me ========================= -->
+<!-- Connect With Me -->
 
 <h2 align="center">🚀 Let's Build Something Amazing Together</h2>
 
@@ -143,7 +142,7 @@ Whether it's AI, Machine Learning, Python, or Open Source—I'm always excited t
 </p>
 
 <br>
-<!-- ========================= Footer ========================= -->
+<!-- Footer -->
 
 <br>
 
